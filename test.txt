@@ -9,8 +9,8 @@ Compiled successfully!
 
 You can now view my_app in the browser.
 
-  Local:            http://localhost:3000
-  On Your Network:  http://172.18.224.1:3000
+  Local:            http://localhost:3000/bookSearchApi-
+  On Your Network:  http://172.18.224.1:3000/bookSearchApi-
 
 Note that the development build is not optimized.
 To create a production build, use npm run build.
